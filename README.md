@@ -1,4 +1,4 @@
-## Hi guys 👋
+## Hi friends!
 
 <!--
 **1A2024lee/1A2024lee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
